@@ -1,3 +1,4 @@
+layout_spectrum: 0.5856038820929825
 typography_spectrum: 0.43485880037769675
 color:
   brandStrength: 0.41593349585309625
@@ -10,10 +11,4 @@ color:
     - '#3F8EFC'
     - '#2667FF'
     - '#3B28CC'
-layout_spectrum: 0.5856038820929825
-logo: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/db0845ba-a651-408f-a10b-5ef78ca75f53.svg
 name: TWO Demo
-favicon: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/999de0a2-ffd0-4a0c-8175-d10958e388e0.ico
-title: Digital Self Service
