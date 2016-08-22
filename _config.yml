@@ -1,0 +1,14 @@
+layout_spectrum: 0.5856038820929825
+typography_spectrum: 0.43485880037769675
+color:
+  brandStrength: 0.41593349585309625
+  lightness: 0.23066684883087873
+  saturation: 0.7673839095514268
+  rhythmicContrast: 0.9205366654787213
+  brandColors:
+    - '#EB6C6F'
+    - '#000000'
+    - '#FF0000'
+    - '#AA4E50'
+    - '#800000'
+name: TWO Demo
